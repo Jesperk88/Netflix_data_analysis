@@ -1,1 +1,1 @@
-# Netflix_data_analysis
+# In this project I will be analysing a Netflix dataset. I want to figure out some descriptive statistics as well as find out how much percent of the total movies in Netflix's database, each country has.
